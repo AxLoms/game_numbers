@@ -1,0 +1,35 @@
+body{
+    color: black;
+    background-color: #c9f5e9;
+}
+
+
+.letter{
+    background-color: white;
+    display: block;
+    width: 400px;
+    border: none;
+    outline: none;
+    margin: 20px;
+    padding: 10px;
+}
+
+
+.batton{
+    background-color: #a4b0ad;
+    color: black;
+    padding: 5px 15px;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+
+.batton:hover{
+    background-color: white;
+    color: black;
+}
+
+
+div{
+    margin: 200px;
+}
